@@ -1,0 +1,21 @@
+
+html, body, div, span, h1, h2, p,
+img, figure, figcaption, section,
+header, footer, main {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    line-height: 1;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
